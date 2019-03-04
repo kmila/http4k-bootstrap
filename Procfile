@@ -1,1 +1,1 @@
-web: build/install/http4k-heroku-travis-example-app/bin/http4k-heroku-travis-example-app $PORT
+web: build/install/http4k-bootstrap/bin/http4k-bootstrap $PORT
